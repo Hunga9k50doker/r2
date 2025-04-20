@@ -13,6 +13,7 @@ I am not `responsible` for the possibility of an account being `banned`!
 - Auto task transfers daily (swap/stake)
 - Auto swap: usdc -> r2usd, r2usd -> usdc
 - Auto stake: r2usd => srusd
+- Auto reff
 - Support proxy or not
 - Mutiple threads, multiple accounts
 
