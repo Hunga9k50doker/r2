@@ -10,9 +10,12 @@ I am not `responsible` for the possibility of an account being `banned`!
 
 ## 📎 R2 Node cli version Script features
 
+- Auto faucet usdc discord
+- Auto claim reward ss0
 - Auto task transfers daily (swap/stake)
-- Auto swap: usdc -> r2usd, r2usd -> usdc
-- Auto stake: r2usd => srusd
+- Auto swap
+- Auto stake
+- Auto addliquidity
 - Auto reff
 - Support proxy or not
 - Mutiple threads, multiple accounts
@@ -40,7 +43,10 @@ nano .env
 
 - Setup input value
 
-* proxy: http://user:pass@ip:port
+* discord token to faucet: open discord => F12 (right mouse + inspect) => tab network => like this image
+  ![discord](v9.png)
+
+- proxy: http://user:pass@ip:port
 
 ```bash
 nano proxies.txt
