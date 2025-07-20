@@ -4,6 +4,8 @@ Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (https:/
 
 Link: [https://r2.money](https://r2.money?code=Y2K4P)
 
+This version no avaliable, find final version here: https://amautomarket.com/products/r2-final-testnet
+
 ## 🚨 Attention Before Running R2 Cli Version
 
 I am not `responsible` for the possibility of an account being `banned`!
